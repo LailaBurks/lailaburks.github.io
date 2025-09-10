@@ -5,3 +5,7 @@ One of the main risk factors of Gliomas are rare nuerological genetic conditions
 Since Gliomas only spread throughout the brain the traditional staging system is not used. Instead it is daignosted by grades I-IV based on severity.
 The main treatments for gliomas are surgery, chemotherapty, radiation, targeted therpay, and tumor treating fields therapy.
 Life expectancy for glioblastoma varies for each type but for the most agressive 12-15 months is the average life expantancy--however, for children life expectancy can reach up to 5 years typically. 
+![mcdc7_glioma-8col](https://github.com/user-attachments/assets/374f13a2-510b-4b7a-b236-82b697010800)
+
+
+(link for photo) https://www.mayoclinic.org/diseases-conditions/glioma/symptoms-causes/syc-20350251

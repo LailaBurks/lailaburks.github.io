@@ -1,4 +1,4 @@
-# The Rise and fall of 23&me Company
+# The Rise and Fall of 23 and me Company
 When 23 and me was founded in April 2006, it promised to change the ways of how we understodo ourselves. Founded by Anne Wojcicki, Linda Avey, and Paul Cusenz, focused on 
 giving genetic testing to consumers who wanted to learn about their ancestory. With just 6.5 million invested it quickly grew to at its peak and brough in 
 219.6 million in revenue. 

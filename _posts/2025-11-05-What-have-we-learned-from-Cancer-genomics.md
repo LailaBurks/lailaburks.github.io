@@ -1,10 +1,4 @@
----
-title: "What Genomic Sequencing Has Taught Us About Tumor Mutations"
-date: 2025-11-11
-author: "Laila"
-tags: ["cancer", "genomics", "tumor mutations", "precision medicine"]
-description: "A summary of key insights from genomic sequencing studies of cancer, inspired by the landmark 2013 paper in Cell by Garraway & Lander."
----
+
 
 # Major Lessons from Tumor Sequencing
 
